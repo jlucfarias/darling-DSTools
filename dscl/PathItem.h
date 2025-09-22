@@ -27,7 +27,7 @@
 
 
 #import <Foundation/Foundation.h>
-#import <DSObjCWrappers/DSoNode.h>
+#import "DSoNode.h"
 #import "PathItemProtocol.h"
 
 #define DS_EXCEPTION_STATUS_IS(S) ([localException isKindOfClass:[DSoException class]] && [(DSoException*)localException status] == S)

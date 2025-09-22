@@ -28,17 +28,17 @@
 
 // All DSObjCWrappers Project Headers
 
-#import <DSObjCWrappers/DSoAttributeUtils.h>
-#import <DSObjCWrappers/DSoBuffer.h>
-#import <DSObjCWrappers/DSoDataList.h>
-#import <DSObjCWrappers/DSoDataNode.h>
-#import <DSObjCWrappers/DSoDirectory.h>
-#import <DSObjCWrappers/DSoException.h>
-#import <DSObjCWrappers/DSoGroup.h>
-#import <DSObjCWrappers/DSoNode.h>
-#import <DSObjCWrappers/DSoNodeBrowserItem.h>
-#import <DSObjCWrappers/DSoNodeConfig.h>
-#import <DSObjCWrappers/DSoRecord.h>
-#import <DSObjCWrappers/DSoStatus.h>
-#import <DSObjCWrappers/DSoUser.h>
+#import "DSoAttributeUtils.h"
+#import "DSoBuffer.h"
+#import "DSoDataList.h"
+#import "DSoDataNode.h"
+#import "DSoDirectory.h"
+#import "DSoException.h"
+#import "DSoGroup.h"
+#import "DSoNode.h"
+#import "DSoNodeBrowserItem.h"
+#import "DSoNodeConfig.h"
+#import "DSoRecord.h"
+#import "DSoStatus.h"
+#import "DSoUser.h"
 

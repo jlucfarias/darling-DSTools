@@ -26,7 +26,7 @@
  */
 
 #import <DirectoryService/DirectoryService.h>
-#import <DSObjCWrappers/DSObjCWrappers.h>
+#import "DSObjCWrappers.h"
 #import <opendirectory/odutils.h>
 #import <DirectoryService/DirServicesConstPriv.h>
 

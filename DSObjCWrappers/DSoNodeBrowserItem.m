@@ -28,7 +28,7 @@
 
 #import "DSoNodeBrowserItem.h"
 
-#import <DSObjCWrappers/DSObjCWrappers.h>
+#import "DSObjCWrappers.h"
 
 #ifndef kDSNAttrSubNodes
 #define kDSNAttrSubNodes "dsAttrTypeStandard:SubNodes"

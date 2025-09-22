@@ -1,6 +1,6 @@
 #import "PlugInManager.h"
 
-#import <DSObjCWrappers/DSObjCWrappers.h>
+#import "DSObjCWrappers.h"
 #import "NSStringEscPath.h"
 
 #import "dsclPlugInHelper.h"
